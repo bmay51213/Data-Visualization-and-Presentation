@@ -10,5 +10,5 @@ The project was broken down into five separate components including:
   1. A Dashboard
   2. Executive Summary
   3. Infographic
-  4. Blog Post  **This can be viewed at: [link](https://bmay51213.blogspot.com/2020/07/whats-up-with-that-story-behind-airline.html)
+  4. Blog Post  **This can be viewed at: (https://bmay51213.blogspot.com/2020/07/whats-up-with-that-story-behind-airline.html)** 
   5. Presentation with a 3 Minute Story on the scenario's bottom line.
