@@ -8,8 +8,7 @@ In this scenario, the public has become concerned that airplanes are no longer s
 
 The project was broken down into five separate components including:
   1. A Dashboard
-  2. Executive Summary
-  3. Infographic
-  4. Blog Post  
+  2. Infographic
+  3. Blog Post  
       **This can be viewed at: https://bmay51213.blogspot.com/2020/07/whats-up-with-that-story-behind-airline.html** 
-  5. Presentation with a 3 Minute Story on the scenario's bottom line.
+
