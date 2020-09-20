@@ -7,7 +7,7 @@ This project was focused on a hypothetical scenario regarding Airplane Safety an
 In this scenario, the public has become concerned that airplanes are no longer safe to fly on due to highly publicized airplane crashes.  The media has been broadcasting the statistics indicating that fatalities and accidents have significantly increased in recent years.
 
 The project was broken down into five separate components including:
-  1. A Dashboard
+  1. Information Dashboard
   2. Infographic
   3. Blog Post  
       **This can be viewed at: https://bmay51213.blogspot.com/2020/07/whats-up-with-that-story-behind-airline.html** 
