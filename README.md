@@ -13,4 +13,4 @@ The project was broken down into three separate components including creating th
       
 **The blog post can be viewed at: https://bmay51213.blogspot.com/2020/07/whats-up-with-that-story-behind-airline.html** 
 
-**Dashboard created using Tableau
+**Dashboard created using Tableau**
